@@ -1,6 +1,7 @@
 package Actividad1;
 
 //Adrian Iglesias Serrano
+//Modificacion desde GitHub
 
 public class esPalindromo {
 	public static boolean validPalindrome(String s) {
